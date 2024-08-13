@@ -7,7 +7,7 @@ I draw many of the concepts from
 
 * [Explainable Artificial Intelligence: From Simple Predictors to Complex Generative Models](https://interpretable-ml-class.github.io/) Spring 2023, Harvard University
 	* YT videos of the previous workshop series at [Stanford Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL). 
-
+* Book: https://christophm.github.io/interpretable-ml-book/
 
 
 # Inherently Interpretable Models
